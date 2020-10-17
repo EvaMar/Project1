@@ -36,4 +36,4 @@ Eva Marchetti
 
 ## Thanks
 Udacity Data Science Nano Degree
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Udacity](https://github.com/EvaMar/Project1/blob/main/udacitylogo.png?raw=true)
