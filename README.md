@@ -35,5 +35,5 @@ Feature that may seems importance such as instant booking, reviews, host respons
 Eva Marchetti
 
 ## Thanks
-Udacity Data Science Nano Degree
+Udacity Data Science Nano Degree  
 ![Udacity](https://github.com/EvaMar/Project1/blob/main/udacitylogo.png?raw=true)
